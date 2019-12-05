@@ -1,5 +1,5 @@
 {
-  "name": "three-js-boilerplate",
+  "name": "three-js-experiment",
   "version": "1.0.0",
   "description": "",
   "main": "scripts.js",
@@ -8,7 +8,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github-learnthreejs:learnthreejs/three-js-boilerplate.git"
   },
   "author": "",
   "license": "ISC",

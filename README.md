@@ -1,18 +1,13 @@
-# Three.js boilerplate
-This is a simple three.js boilerplate for new projects, feel free to contribute!
+# Three.js Experiment
 
 ### Setup
-Run the setup script to make the repository your own!
 
-```bash
-$ ./setup
+Use nvm
+`nvm install v12`
+
+```
+npm install
+npm run start
 ```
 
-Install dependencies and start your engines! This ships with a simple express.js server so we can run three.js properly without cross-origin issues.
-
-```bash
-$ npm install
-$ npm run start
-```
-
-Open http://localhost:8080 to view your project.
+Open http://127.0.0.1:8080 to view your project.
